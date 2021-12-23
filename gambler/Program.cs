@@ -7,7 +7,11 @@ namespace gambler
         static void Main(string[] agrs)
         {
 
-            Console.WriteLine("Total money  ");
+            Console.WriteLine("game gambler");
+            Console.WriteLine("U lose");
+
+
+                Console.WriteLine("U win");
 
         }
     }
